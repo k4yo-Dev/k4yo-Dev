@@ -30,7 +30,7 @@ Tenho interesse em **Desenvolvimento Web, Back-end, Banco de Dados e programaç�
 
 **Banco de Dados**
 
-* Em aprendizado 📚
+* Em Aprendizado.
 
 **Ferramentas**
 
