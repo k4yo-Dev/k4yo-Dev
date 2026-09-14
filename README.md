@@ -1,85 +1,28 @@
-# Olá, eu sou Kayo Rennan 👋
+# Oba!, eu sou Kayo Rennan 👋
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
-💻 Desenvolvedor em formação, aprendendo **Desenvolvimento Web, Back-end e Banco de Dados**
-🚀 Transformando ideias em projetos e evoluindo a cada código.
+💻 Aprendendo **Desenvolvimento Web, Back-end e Banco de Dados**
+🚀 Criando projetos e evoluindo a cada código.
 
----
+### 🛠️ Tecnologias
 
-# 🧑‍💻 Sobre mim
+**Web:** HTML • CSS • JavaScript • Vue.js
+**Back-end:** Python • APIs
+**Banco de Dados:** Em aprendizado 📚
+**Ferramentas:** Git • GitHub • VS Code
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou construindo minha experiência através de projetos acadêmicos e pessoais.
+### 🚀 Projetos
 
-Tenho interesse em **Desenvolvimento Web, Back-end, Banco de Dados e programação**.
+📍 **[Buscador de CEP](https://github.com/k4yo-Dev/buscador-de-CEP)** — Consulta de endereços através de CEP.
 
----
+✅ **[To-Do List](https://github.com/k4yo-Dev/Lista-de-tarefas---To-Do-List)** — Gerenciamento de tarefas com JavaScript.
 
-# 🛠️ Tecnologias
+🐍 **[Funções em Python](https://github.com/k4yo-Dev/atv.monitoria---fun-es.py)** — Exercícios e funções desenvolvidos durante os estudos.
 
-**Desenvolvimento Web**
+### 📚 Atualmente aprendendo
 
-* HTML
-* CSS
-* JavaScript
-* Vue.js
+🌐 Desenvolvimento Web • ⚙️ Back-end • 🗄️ Banco de Dados • JavaScript • Vue.js • Python • APIs
 
-**Back-end e Programação**
+### 🎯 Objetivo
 
-* Python
-* APIs
-
-**Banco de Dados**
-
-* Em Aprendizado.
-
-**Ferramentas**
-
-* Git
-* GitHub
-* VS Code
-
----
-
-# 🚀 Projetos
-
-## 📍 Buscador de CEP
-
-Aplicação web para consulta de endereços através do CEP.
-
-**Tecnologias:** HTML • CSS • JavaScript • API
-
-## ✅ To-Do List
-
-Aplicação para gerenciamento de tarefas, permitindo adicionar, concluir e remover tarefas.
-
-**Tecnologias:** HTML • CSS • JavaScript
-
-## 🐍 Funções em Python
-
-Coleção de exercícios e funções desenvolvidos durante meus estudos de programação em Python.
-
-**Tecnologia:** Python
-
----
-
-# 📚 Atualmente aprendendo
-
-* 🌐 Desenvolvimento Web
-* ⚙️ Back-end
-* 🗄️ Banco de Dados
-* JavaScript
-* Vue.js
-* Python
-* APIs
-* Git e GitHub
-
----
-
-# 🎯 Objetivo
-
-Continuar evoluindo como desenvolvedor, criando projetos cada vez mais completos e construindo meu portfólio durante a graduação.
-
-
-
-
-
+Evoluir como desenvolvedor e construir projetos cada vez mais completos durante a graduação.
