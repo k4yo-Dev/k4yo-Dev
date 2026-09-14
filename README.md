@@ -6,10 +6,10 @@
 
 ### 🛠️ Tecnologias
 
-**Web:** HTML • CSS • JavaScript • Vue.js
-**Back-end:** Python • APIs
-**Banco de Dados:** Em aprendizado 📚
-**Ferramentas:** Git • GitHub • VS Code
+**|Web:** HTML • CSS • JavaScript • Vue.js|
+**|Back-end:** Python • APIs|
+**|Banco de Dados:** Em aprendizado 📚|
+**|Ferramentas:** Git • GitHub • VS Code|
 
 ### 🚀 Projetos
 
