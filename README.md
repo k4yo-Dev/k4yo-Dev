@@ -19,10 +19,6 @@
 
 🐍 **[Funções em Python](https://github.com/k4yo-Dev/atv.monitoria---fun-es.py)** — Exercícios e funções desenvolvidos durante os estudos.
 
-### 📚 Atualmente aprendendo
-
-🌐 Desenvolvimento Web • ⚙️ Back-end • 🗄️ Banco de Dados • JavaScript • Vue.js • Python • APIs
-
 ### 🎯 Objetivo
 
 Evoluir como desenvolvedor e construir projetos cada vez mais completos durante a graduação.
