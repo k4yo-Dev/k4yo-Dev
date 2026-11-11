@@ -1,6 +1,6 @@
 # Oba!, eu sou Kayo Rennan 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)**
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
 💻 Aprendendo **Desenvolvimento Web, Back-end e Banco de Dados**
 🚀 Criando projetos e evoluindo a cada código.
 
