@@ -14,7 +14,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">view technologies</h2>
+<h2 data-importer="text" align="left">Viewed Tech</h2>
 
 ###
 
