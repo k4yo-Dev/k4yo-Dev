@@ -1,24 +1,39 @@
-# Oba!, eu sou Kayo Rennan 👋
+<h1 data-importer="text" align="left">Kayo Rennan</h1>
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 Aprendendo **Desenvolvimento Web, Back-end e Banco de Dados**
-🚀 Criando projetos e evoluindo a cada código.
+###
 
-### 🛠️ Tecnologias
+<p data-importer="text" align="left">Dev em processo... criando algumas coisas aí de vez em quando.<br>cursando análise e desenvolvimento de sistemas.</p>
 
-**|Web:** HTML • CSS • JavaScript • Vue.js|
-**Back-end:** Python • APIs
-**|Banco de Dados:** Em aprendizado 📚|
-**Ferramentas:** Git • GitHub • VS Code
+###
 
-### 🚀 Projetos
+<h2 data-importer="text" align="left"></h2>
 
-📍 **[Buscador de CEP](https://github.com/k4yo-Dev/buscador-de-CEP)** — Consulta de endereços através de CEP.
+###
 
-✅ **[To-Do List](https://github.com/k4yo-Dev/Lista-de-tarefas---To-Do-List)** — Gerenciamento de tarefas com JavaScript.
+<p data-importer="text" align="left"></p>
 
-🐍 **[Funções em Python](https://github.com/k4yo-Dev/atv.monitoria---fun-es.py)** — Exercícios e funções desenvolvidos durante os estudos.
+###
 
-### 🎯 Objetivo
+<h2 data-importer="text" align="left">view technologies</h2>
 
-Evoluir como desenvolvedor e construir projetos cada vez mais completos durante a graduação.
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+</div>
+
+###
